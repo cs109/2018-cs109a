@@ -1,6 +1,6 @@
 # 2018-cs109a  
 
-* Repo in active development *
+### Repo in active development - stay tuned
 
 Official Public site for CS109a Fall 2018
 

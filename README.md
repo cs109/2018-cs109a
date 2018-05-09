@@ -1,4 +1,4 @@
-# 2018-cs109a
+# 2018-cs109a  REPO IN PROGRESS
 Official Public site for CS109a Fall 2018
 
 This is the public repository for Harvard CS109a used to hold all course related material. Material is organized as follows:
